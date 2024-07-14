@@ -22,6 +22,7 @@ Here's a glimpse of my recent GitHub activity:
 <div style="margin-top: 20px;">
   <img src="https://tryhackme-badges.s3.amazonaws.com/vaibhav.kore.png" alt="TryHackMe">
 </div>
+
 ## Connect with Me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/vaibhav-kore-9ab28922a/)
 - Codeforces: [Codeforces](https://codeforces.com/profile/Vaibhav_2408)
