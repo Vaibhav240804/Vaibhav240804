@@ -19,9 +19,7 @@ Here's a glimpse of my recent GitHub activity:
 <div style="margin-top: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav240804&" alt="Stats" />
 </div>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/vaibhav.kore.png" alt="TryHackMe">
-
+<script src="https://tryhackme.com/badge/3278167"></script>
 
 ## Connect with Me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/vaibhav-kore-9ab28922a/)
