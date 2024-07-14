@@ -1,7 +1,7 @@
 # Hi there, I'm Vaibhav Kore! 👋
 
 ## About Me
-- 🌱 Enthusiastic about learning new technologies and building useful projects around them..
+- 🌱 Enthusiastic about learning new technologies and building useful projects around them...
 - 💻 My tech stack includes:
   - **Programming Languages:** Java, C++, JavaScript, Python
   - **Development Stack:** MERN (MongoDB, Express.js, React.js, Node.js), Flask, Tailwind CSS, Material UI, TensorFlow, Flutter, Dart
@@ -20,7 +20,7 @@ Here's a glimpse of my recent GitHub activity:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav240804&" alt="Stats" />
 </div>
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/vaibhav.kore.png" alt="TryHackMe">
 
 
 ## Connect with Me
